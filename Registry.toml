@@ -1,0 +1,5 @@
+name = "MurrellGroupRegistry"
+uuid = "07ab66e7-1dc6-449c-9cb1-c43c93e1f98e"
+repo = "https://github.com/MurrellGroup/MurrellGroupRegistry"
+
+[packages]
