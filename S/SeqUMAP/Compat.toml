@@ -1,0 +1,6 @@
+[0]
+Distances = "0.10"
+FASTX = "2"
+MultivariateStats = "0.10"
+UMAP = "0.1"
+julia = "1"

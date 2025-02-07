@@ -1,0 +1,3 @@
+name = "SeqUMAP"
+uuid = "30ecd5e8-21b5-49d6-a4db-4371c2e4ee05"
+repo = "https://github.com/MurrellGroup/SeqUMAP.jl"
