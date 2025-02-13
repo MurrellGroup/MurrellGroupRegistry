@@ -4,7 +4,7 @@ This is a Julia package registry for MurrellGroup, enabling easier version manag
 
 ## Installation
 
-Julia stores registries in `~/.julia/registries`, meaning installation is needed only once per user on a given machine.
+Julia stores registries in `~/.julia/registries`, meaning installation is needed only once per user on a given machine:
 
 ```julia
 using Pkg
@@ -25,18 +25,19 @@ pkg"add LocalRegistry"
 
 ### With write access
 
-With the package that you want to register being in your working directory:
+With the package that you want to register being in your working directory, run:
 
 ```julia
-using LocalRegistry, YourPackage
-register(YourPackage, registry="MurrellGroupRegistry")
+using Pkg, LocalRegistry
+pkg"activate ."
+register(registry="MurrellGroupRegistry")
 ```
 
 ### Through pull request
 
 1. Fork the registry or something.
 2. Checkout new branch.
-3. As above, but call `register(YourPackage, registry="path/to/.julia/registries/MurrellGroupRegistry", push=false)`
+3. As above, but call `register(registry="path/to/.julia/registries/MurrellGroupRegistry", push=false)`.
 4. Create a pull request.
 5. ???
 
