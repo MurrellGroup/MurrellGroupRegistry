@@ -34,7 +34,7 @@ register(YourPackage, registry="MurrellGroupRegistry")
 
 1. Fork the registry or something.
 2. Checkout new branch.
-3. Same as above, but call register(YourPackage, registry="path/to/.julia/registries/MurrellGroupRegistry", push=false)
+3. As above, but call `register(YourPackage, registry="path/to/.julia/registries/MurrellGroupRegistry", push=false)`
 4. Create a pull request.
 5. ???
 
