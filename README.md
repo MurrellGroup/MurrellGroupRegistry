@@ -11,6 +11,8 @@ using Pkg
 pkg"registry add https://github.com/MurrellGroup/MurrellGroupRegistry"
 ```
 
+Once installed, using packages in this registry is as simple as using any other.
+
 ## Registering a package
 
 A package can be registered in MurrellGroupRegistry using [LocalRegistry.jl](https://github.com/GunnarFarneback/LocalRegistry.jl), which may be added to your global environment:
