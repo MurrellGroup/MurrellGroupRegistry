@@ -43,4 +43,4 @@ register(registry="MurrellGroupRegistry")
 
 ## See also
 
-- [HolyLabRegistry](https://github.com/HolyLab/HolyLabRegistry) (somewhat dated, but README goes into more depth)
+- [HolyLabRegistry](https://github.com/HolyLab/HolyLabRegistry) (README goes into more depth)
