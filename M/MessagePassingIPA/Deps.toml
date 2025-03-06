@@ -1,0 +1,5 @@
+[0]
+BatchedTransformations = "8ba27c4b-52b5-4b10-bc66-a4fda05aa11b"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+GraphNeuralNetworks = "cffab07f-9bc2-4db1-8861-388f63bf7694"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"

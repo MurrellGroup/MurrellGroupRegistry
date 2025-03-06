@@ -4,6 +4,7 @@ repo = "https://github.com/MurrellGroup/MurrellGroupRegistry"
 
 [packages]
 30ecd5e8-21b5-49d6-a4db-4371c2e4ee05 = { name = "SeqUMAP", path = "S/SeqUMAP" }
+ae93bb3c-0630-4e85-811e-b7d91ad6ecbd = { name = "MessagePassingIPA", path = "M/MessagePassingIPA" }
 b8e8f2a5-48d3-44f1-ba0d-c71cb7726ff8 = { name = "ProteinChains", path = "P/ProteinChains" }
 c0a2461d-ad31-482d-b417-21333ed28a5d = { name = "BackboneIdealization", path = "B/BackboneIdealization" }
 e879419d-bb0f-4252-adee-d266c51ac92d = { name = "ForwardBackward", path = "F/ForwardBackward" }
