@@ -5,4 +5,5 @@ repo = "https://github.com/MurrellGroup/MurrellGroupRegistry"
 [packages]
 30ecd5e8-21b5-49d6-a4db-4371c2e4ee05 = { name = "SeqUMAP", path = "S/SeqUMAP" }
 5b4e93c8-7b6e-4682-b400-fc3b238f52b1 = { name = "Flowfusion", path = "F/Flowfusion" }
+6e960f36-814a-4ceb-8c87-6ab5da0e9bff = { name = "TMscore", path = "T/TMscore" }
 ae93bb3c-0630-4e85-811e-b7d91ad6ecbd = { name = "MessagePassingIPA", path = "M/MessagePassingIPA" }
