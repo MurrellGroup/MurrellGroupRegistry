@@ -1,0 +1,7 @@
+[0]
+HuggingFaceApi = "3cc741c3-0c9d-4fbe-84fa-cdec264173de"
+MergedArrays = "4201acb4-6ad2-4fbc-ab19-c24116385dd7"
+ProteinChains = "b8e8f2a5-48d3-44f1-ba0d-c71cb7726ff8"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
