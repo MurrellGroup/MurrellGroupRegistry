@@ -8,6 +8,7 @@ repo = "https://github.com/MurrellGroup/MurrellGroupRegistry"
 434c8270-3839-45f3-8f5c-492a580b2514 = { name = "ColabMPNN", path = "C/ColabMPNN" }
 5b4e93c8-7b6e-4682-b400-fc3b238f52b1 = { name = "Flowfusion", path = "F/Flowfusion" }
 6e960f36-814a-4ceb-8c87-6ab5da0e9bff = { name = "TMscore", path = "T/TMscore" }
+814a5788-1061-474f-a71f-873f087d5d12 = { name = "InvariantPointAttention", path = "I/InvariantPointAttention" }
 ae93bb3c-0630-4e85-811e-b7d91ad6ecbd = { name = "MessagePassingIPA", path = "M/MessagePassingIPA" }
 df93d313-1126-4eb6-ac29-b325d5898587 = { name = "DLProteinFormats", path = "D/DLProteinFormats" }
 e879419d-bb0f-4252-adee-d266c51ac92d = { name = "ForwardBackward", path = "F/ForwardBackward" }
