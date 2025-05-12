@@ -10,4 +10,5 @@ repo = "https://github.com/MurrellGroup/MurrellGroupRegistry"
 6e960f36-814a-4ceb-8c87-6ab5da0e9bff = { name = "TMscore", path = "T/TMscore" }
 ae93bb3c-0630-4e85-811e-b7d91ad6ecbd = { name = "MessagePassingIPA", path = "M/MessagePassingIPA" }
 df93d313-1126-4eb6-ac29-b325d5898587 = { name = "DLProteinFormats", path = "D/DLProteinFormats" }
+e879419d-bb0f-4252-adee-d266c51ac92d = { name = "ForwardBackward", path = "F/ForwardBackward" }
 fdebf6c2-71da-43a1-b539-c3bc3e09c5c6 = { name = "Onion", path = "O/Onion" }
