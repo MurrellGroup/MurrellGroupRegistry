@@ -3,6 +3,7 @@ uuid = "07ab66e7-1dc6-449c-9cb1-c43c93e1f98e"
 repo = "https://github.com/MurrellGroup/MurrellGroupRegistry"
 
 [packages]
+0bca4874-a2b8-4dca-bc03-d2d86e344f1f = { name = "PyBoltz", path = "P/PyBoltz" }
 30ecd5e8-21b5-49d6-a4db-4371c2e4ee05 = { name = "SeqUMAP", path = "S/SeqUMAP" }
 434c8270-3839-45f3-8f5c-492a580b2514 = { name = "ColabMPNN", path = "C/ColabMPNN" }
 5b4e93c8-7b6e-4682-b400-fc3b238f52b1 = { name = "Flowfusion", path = "F/Flowfusion" }
