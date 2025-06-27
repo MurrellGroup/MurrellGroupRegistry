@@ -1,7 +1,10 @@
 name: TagBot Triggers
 on:
+  pull_request:
+    types:
+      - closed
   schedule:
-    - cron: 10 * * * *
+    - cron: 0 */3 * * *
   workflow_dispatch:
 jobs:
   trigger:
