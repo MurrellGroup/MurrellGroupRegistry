@@ -9,3 +9,7 @@ LinearAlgebra = "1.11.0 - 1"
 
 ["0.1 - 0"]
 LinearAlgebra = "1"
+
+["0.1.2 - 0"]
+ConcreteStructs = "0.2.3 - 0.2"
+Einops = "0.1.5 - 0.1"
