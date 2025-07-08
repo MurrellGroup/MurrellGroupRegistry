@@ -1,0 +1,3 @@
+name = "PyProteinMPNN"
+uuid = "ba507b30-8e11-4219-9ced-db99387ea03d"
+repo = "https://github.com/MurrellGroup/PyProteinMPNN.jl"
