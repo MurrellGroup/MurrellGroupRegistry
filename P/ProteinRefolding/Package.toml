@@ -1,0 +1,3 @@
+name = "ProteinRefolding"
+uuid = "bf3ea083-9801-4107-aa43-922d748a66a0"
+repo = "git@github.com:MurrellGroup/ProteinRefolding.jl.git"

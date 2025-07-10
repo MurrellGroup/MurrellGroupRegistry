@@ -11,6 +11,7 @@ repo = "https://github.com/MurrellGroup/MurrellGroupRegistry"
 814a5788-1061-474f-a71f-873f087d5d12 = { name = "InvariantPointAttention", path = "I/InvariantPointAttention" }
 ae93bb3c-0630-4e85-811e-b7d91ad6ecbd = { name = "MessagePassingIPA", path = "M/MessagePassingIPA" }
 ba507b30-8e11-4219-9ced-db99387ea03d = { name = "PyProteinMPNN", path = "P/PyProteinMPNN" }
+bf3ea083-9801-4107-aa43-922d748a66a0 = { name = "ProteinRefolding", path = "P/ProteinRefolding" }
 df93d313-1126-4eb6-ac29-b325d5898587 = { name = "DLProteinFormats", path = "D/DLProteinFormats" }
 e879419d-bb0f-4252-adee-d266c51ac92d = { name = "ForwardBackward", path = "F/ForwardBackward" }
 fdebf6c2-71da-43a1-b539-c3bc3e09c5c6 = { name = "Onion", path = "O/Onion" }
