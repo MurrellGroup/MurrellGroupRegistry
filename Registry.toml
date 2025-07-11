@@ -14,4 +14,5 @@ ba507b30-8e11-4219-9ced-db99387ea03d = { name = "PyProteinMPNN", path = "P/PyPro
 bf3ea083-9801-4107-aa43-922d748a66a0 = { name = "ProteinRefolding", path = "P/ProteinRefolding" }
 df93d313-1126-4eb6-ac29-b325d5898587 = { name = "DLProteinFormats", path = "D/DLProteinFormats" }
 e879419d-bb0f-4252-adee-d266c51ac92d = { name = "ForwardBackward", path = "F/ForwardBackward" }
+eeb6ee5c-f953-4f60-8482-00c4fb7bc198 = { name = "NNop", path = "N/NNop" }
 fdebf6c2-71da-43a1-b539-c3bc3e09c5c6 = { name = "Onion", path = "O/Onion" }
