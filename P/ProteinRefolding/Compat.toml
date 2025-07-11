@@ -5,6 +5,11 @@ ColabMPNN = "0.0.3"
 Combinatorics = "1.0.3 - 1"
 ProteinChains = "0.7.3 - 0.7"
 PyBoltz = "0.2"
-PyProteinMPNN = "1.0.3 - 1"
 TMscore = "0.1"
 julia = "1.6.7 - 1"
+
+["1.0.0"]
+PyProteinMPNN = "1.0.3 - 1"
+
+["1.0.1 - 1"]
+PyProteinMPNN = "1.0.4 - 1"
