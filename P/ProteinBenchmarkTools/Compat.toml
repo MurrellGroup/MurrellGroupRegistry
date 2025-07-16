@@ -1,0 +1,6 @@
+[1]
+Foldseek_jll = "8"
+ProteinChains = "0.7.3 - 0.7"
+ProteinRefolding = "1"
+USalign_jll = "2022.9.24 - 2022"
+julia = "1.6.7 - 1"
