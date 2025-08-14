@@ -9,3 +9,7 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 ["0.1.7 - 0"]
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 StaticStrings = "4db0a0c5-418a-4e1d-8806-cb305fe13294"
+
+["0.1.9 - 0"]
+BioStructures = "de9282ab-8554-53be-b2d6-f6c222edabfc"
+PeriodicTable = "7b2266bf-644c-5ea3-82d8-af4bbd25a884"
