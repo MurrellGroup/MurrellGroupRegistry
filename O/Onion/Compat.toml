@@ -19,3 +19,7 @@ ConcreteStructs = "0.2.3 - 0.2"
 ["0.1.3 - 0"]
 ChainRulesCore = "1.25.2 - 1"
 Einops = "0.1.6 - 0.1"
+
+["0.2 - 0"]
+GPUArraysCore = "0.2"
+NNop = "0.2"
