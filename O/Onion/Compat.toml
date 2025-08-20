@@ -23,3 +23,6 @@ Einops = "0.1.6 - 0.1"
 ["0.2 - 0"]
 GPUArraysCore = "0.2"
 NNop = "0.2"
+
+["0.2.2 - 0"]
+Statistics = "1"
