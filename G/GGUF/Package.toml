@@ -1,0 +1,3 @@
+name = "GGUF"
+uuid = "46554747-bf56-4f19-bae7-0bd76bb7d340"
+repo = "https://github.com/MurrellGroup/GGUF.jl"
