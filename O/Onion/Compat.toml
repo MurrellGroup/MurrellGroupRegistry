@@ -1,4 +1,4 @@
-[0]
+["0-0.2.6"]
 BatchedTransformations = "0.5.7 - 0.5"
 Flux = "0.16.3 - 0.16"
 NNlib = "0.9.27 - 0.9"
@@ -7,22 +7,32 @@ julia = "1.9.0 - 1"
 ["0.0"]
 LinearAlgebra = "1.11.0 - 1"
 
-["0.1 - 0"]
+["0.1-0"]
 LinearAlgebra = "1"
 
 ["0.1.2"]
 Einops = "0.1.5 - 0.1"
 
-["0.1.2 - 0"]
+["0.1.2-0.2.6"]
 ConcreteStructs = "0.2.3 - 0.2"
 
-["0.1.3 - 0"]
+["0.1.3-0.2.6"]
 ChainRulesCore = "1.25.2 - 1"
 Einops = "0.1.6 - 0.1"
 
-["0.2 - 0"]
+["0.2-0"]
 GPUArraysCore = "0.2"
 NNop = "0.2"
 
-["0.2.2 - 0"]
+["0.2.2-0"]
 Statistics = "1"
+
+["0.2.7-0"]
+BatchedTransformations = "0.5.7-0.5"
+ChainRulesCore = "1.25.2-1"
+ConcreteStructs = "0.2.3-0.2"
+Einops = "0.1.6-0.1"
+Flux = "0.16.3-0.16"
+NNlib = "0.9.27-0.9"
+RandomFeatureMaps = "0.2.2-0.2"
+julia = "1.9.0-1"
