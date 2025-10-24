@@ -37,8 +37,10 @@ NNlib = "0.9.27-0.9"
 RandomFeatureMaps = "0.2.2-0.2"
 julia = "1.9.0-1"
 
-["0.2.8 - 0"]
+["0.2.8"]
 BFloat16s = "0.6"
+
+["0.2.8 - 0"]
 BatchedTransformations = "0.5.7 - 0.5"
 ChainRulesCore = "1.25.2 - 1"
 ConcreteStructs = "0.2.3 - 0.2"
@@ -47,3 +49,6 @@ Flux = "0.16.3 - 0.16"
 NNlib = "0.9.27 - 0.9"
 RandomFeatureMaps = "0.2.2 - 0.2"
 julia = "1.9.0 - 1"
+
+["0.2.9 - 0"]
+BFloat16s = "0.5 - 0.6"
