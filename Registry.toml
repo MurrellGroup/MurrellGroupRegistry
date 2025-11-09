@@ -4,7 +4,6 @@ repo = "https://github.com/MurrellGroup/MurrellGroupRegistry"
 
 [packages]
 0bca4874-a2b8-4dca-bc03-d2d86e344f1f = { name = "PyBoltz", path = "P/PyBoltz" }
-16124dda-d9fe-413b-a880-e3f4df3aa341 = { name = "CannotWaitForTheseOptimisers", path = "C/CannotWaitForTheseOptimisers" }
 30ecd5e8-21b5-49d6-a4db-4371c2e4ee05 = { name = "SeqUMAP", path = "S/SeqUMAP" }
 31c70f10-a750-4521-b13c-797315ae2933 = { name = "Microfloats", path = "M/Microfloats" }
 434c8270-3839-45f3-8f5c-492a580b2514 = { name = "ColabMPNN", path = "C/ColabMPNN" }
