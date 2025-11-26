@@ -24,6 +24,9 @@ ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 ["0.2.15 - 0"]
 ONIONop = "021020d5-7125-488f-a684-9e3366e41e56"
 
+["0.2.16 - 0"]
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+
 ["0.2.7 - 0"]
 RandomFeatureMaps = "780baa95-dd42-481b-93db-80fe3d88832c"
 
