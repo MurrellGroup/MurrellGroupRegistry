@@ -1,0 +1,8 @@
+[0]
+CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+Scratch = "6c6a2e73-6563-6170-7368-637461726353"
+Tar = "a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e"
+Taxonomy = "10bb16a4-4bfc-432e-9419-4ca69c1a753c"
+TranscodingStreams = "3bb67fe8-82b1-5028-8e26-92a6c54297fa"

@@ -1,0 +1,4 @@
+name = "TaxMax"
+uuid = "cfe89787-7cb0-4640-afff-52e887d57b7a"
+repo = "https://github.com/MurrellGroup/DLProteinFormats.jl"
+subdir = "lib/TaxMax"
