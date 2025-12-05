@@ -1,0 +1,4 @@
+name = "ProteinAnnotation"
+uuid = "ee879965-e6d3-49bd-8e05-89e960000d8e"
+repo = "https://github.com/MurrellGroup/DLProteinFormats.jl"
+subdir = "lib/ProteinAnnotation"

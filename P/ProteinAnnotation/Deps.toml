@@ -1,0 +1,9 @@
+[0]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+OneHotArrays = "0b1bfda6-eb8a-41d2-88d8-f5af5cad476f"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+ProteinChains = "b8e8f2a5-48d3-44f1-ba0d-c71cb7726ff8"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+TaxMax = "cfe89787-7cb0-4640-afff-52e887d57b7a"
