@@ -1,0 +1,3 @@
+name = "BranchingFlows"
+uuid = "f304b33a-538b-441c-bfb5-9e50a8d4c9a8"
+repo = "https://github.com/MurrellGroup/BranchingFlows.jl"
