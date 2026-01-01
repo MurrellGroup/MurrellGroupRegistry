@@ -38,6 +38,10 @@ Einops = "0.1.12 - 0.1"
 MacroTools = "0.5.16 - 0.5"
 ONIONop = "0.1.1 - 0.1"
 
+["0.2.18 - 0"]
+Rewrap = "0.1.7 - 0.1"
+SpecialFunctions = "2.6.1 - 2"
+
 ["0.2.2 - 0"]
 Statistics = "1"
 

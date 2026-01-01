@@ -27,6 +27,10 @@ ONIONop = "021020d5-7125-488f-a684-9e3366e41e56"
 ["0.2.16 - 0"]
 MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
 
+["0.2.18 - 0"]
+Rewrap = "e37f04ce-ca06-4a96-b09f-ea39bec02b08"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+
 ["0.2.7 - 0"]
 RandomFeatureMaps = "780baa95-dd42-481b-93db-80fe3d88832c"
 
