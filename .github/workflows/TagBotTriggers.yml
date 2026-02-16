@@ -1,8 +1,5 @@
 name: TagBot Triggers
 on:
-  pull_request:
-    types:
-      - closed
   push:
     branches: [main]
   schedule:
@@ -24,6 +21,6 @@ jobs:
       - run: chmod +x .ci/instantiate.sh
       - run: .ci/instantiate.sh
       - run: julia --color=yes --project=.ci/ -e 'import Pkg; Pkg.precompile()'
-      - run: julia --color=yes --project=.ci/ -e 'using RegistryCI.TagBot; TagBot.main()'
+      - run: julia --color=yes --project=.ci/ .ci/tagbot_patch.jl
         env:
           GITHUB_TOKEN: ${{ secrets.TAGBOT_TOKEN }}
