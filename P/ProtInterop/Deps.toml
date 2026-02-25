@@ -1,0 +1,8 @@
+[0]
+BFloat16s = "ab4f0b2a-ad5b-11e8-123f-65d77653426b"
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+HuggingFaceApi = "3cc741c3-0c9d-4fbe-84fa-cdec264173de"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
+NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"

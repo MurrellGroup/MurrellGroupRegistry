@@ -18,6 +18,7 @@ repo = "https://github.com/MurrellGroup/MurrellGroupRegistry"
 814a5788-1061-474f-a71f-873f087d5d12 = { name = "InvariantPointAttention", path = "I/InvariantPointAttention" }
 a25fa8c1-e8fe-40fb-8be2-d139e369b1d5 = { name = "MatrixSign", path = "M/MatrixSign" }
 ae93bb3c-0630-4e85-811e-b7d91ad6ecbd = { name = "MessagePassingIPA", path = "M/MessagePassingIPA" }
+b3e4c6a1-2f5a-4d8c-9e7b-1a3c5d9f0e2b = { name = "ProtInterop", path = "P/ProtInterop" }
 b58c8408-13c4-4787-8733-7038ae624acf = { name = "BitPacking", path = "B/BitPacking" }
 ba507b30-8e11-4219-9ced-db99387ea03d = { name = "PyProteinMPNN", path = "P/PyProteinMPNN" }
 bf3ea083-9801-4107-aa43-922d748a66a0 = { name = "ProteinRefolding", path = "P/ProteinRefolding" }

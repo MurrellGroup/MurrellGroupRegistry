@@ -1,0 +1,3 @@
+name = "ProtInterop"
+uuid = "b3e4c6a1-2f5a-4d8c-9e7b-1a3c5d9f0e2b"
+repo = "https://github.com/MurrellGroup/ProtInterop.jl"
