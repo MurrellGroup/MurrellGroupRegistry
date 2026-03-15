@@ -41,12 +41,3 @@ RandomFeatureMaps = "780baa95-dd42-481b-93db-80fe3d88832c"
 ["0.2.8-0.2"]
 ArrayInterface = "4fba245c-0d91-5ea0-9b3e-6abc04ee57a9"
 BFloat16s = "ab4f0b2a-ad5b-11e8-123f-65d77653426b"
-
-["0.3-0"]
-OnionCore = "42a94c36-64b5-4594-9f04-7bc0bc5c1701"
-OnionStyle = "6e247420-e5a1-45e2-a08a-6a2faa9330e2"
-Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
-Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
-Republic = "27243419-9dde-4721-b67c-fd63626fea7f"
-WeightInitializers = "d49dbf32-c5c2-4618-8acc-27bb2598ef2d"
-Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
