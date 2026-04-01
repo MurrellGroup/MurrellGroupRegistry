@@ -8,6 +8,13 @@ julia = "1.11.0-1"
 CompilerCaching = "0.1.2-0.1"
 IRStructurizer = "0.1"
 
+["0.0.6"]
+IRStructurizer = "0.2"
+
 ["0.0.6-0"]
 CompilerCaching = "0.2"
-IRStructurizer = "0.2"
+
+["0.0.7-0"]
+EnumX = "1"
+GPUArrays = "11"
+IRStructurizer = "0.4"
