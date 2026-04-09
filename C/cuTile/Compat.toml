@@ -17,4 +17,9 @@ CompilerCaching = "0.2"
 ["0.0.7-0"]
 EnumX = "1"
 GPUArrays = "11"
+
+["0.0.7-0.0.8"]
 IRStructurizer = "0.4"
+
+["0.0.9-0"]
+IRStructurizer = "0.5.3-0.5"
