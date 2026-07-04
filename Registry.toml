@@ -8,7 +8,6 @@ repo = "https://github.com/MurrellGroup/MurrellGroupRegistry"
 0dea8319-8c4a-4662-a73d-20234d115b9a = { name = "cuTile", path = "C/cuTile" }
 27243419-9dde-4721-b67c-fd63626fea7f = { name = "Republic", path = "R/Republic" }
 30ecd5e8-21b5-49d6-a4db-4371c2e4ee05 = { name = "SeqUMAP", path = "S/SeqUMAP" }
-31c70f10-a750-4521-b13c-797315ae2933 = { name = "Microfloats", path = "M/Microfloats" }
 42a94c36-64b5-4594-9f04-7bc0bc5c1701 = { name = "OnionCore", path = "O/OnionCore" }
 434c8270-3839-45f3-8f5c-492a580b2514 = { name = "ColabMPNN", path = "C/ColabMPNN" }
 46554747-bf56-4f19-bae7-0bd76bb7d340 = { name = "GGUF", path = "G/GGUF" }
